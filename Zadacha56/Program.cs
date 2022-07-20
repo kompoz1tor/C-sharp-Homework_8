@@ -77,13 +77,13 @@ void FillArraySumRow(int[,] A)
 void MinSumRow(int[] A)
 {
     int min = sumRow[0];
-    int indexMin = 0;
+    int indexMin = 1;
     for (int i = 0; i < sumRow.Length; i++)
          {
             if (sumRow[i] < min)
             {
                 min = sumRow[i];
-                indexMin = i+1;
+                indexMin = indexMin + 1;
             }
          }
     Console.WriteLine($"Минимальная суммма строки массива равна {min}, номер строки: {indexMin}");
