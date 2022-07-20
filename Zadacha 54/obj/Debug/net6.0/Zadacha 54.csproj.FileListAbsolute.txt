@@ -13,3 +13,18 @@ C:\Users\ideapad-1\Desktop\ДЗ Семинар №8\Zadacha 54\obj\Debug\net6.0\
 C:\Users\ideapad-1\Desktop\ДЗ Семинар №8\Zadacha 54\obj\Debug\net6.0\Zadacha 54.pdb
 C:\Users\ideapad-1\Desktop\ДЗ Семинар №8\Zadacha 54\obj\Debug\net6.0\Zadacha 54.genruntimeconfig.cache
 C:\Users\ideapad-1\Desktop\ДЗ Семинар №8\Zadacha 54\obj\Debug\net6.0\ref\Zadacha 54.dll
+C:\Users\user\Desktop\C# семинары\C# ДЗ к Семинару №8\C-sharp-Homework_8\Zadacha 54\bin\Debug\net6.0\Zadacha 54.exe
+C:\Users\user\Desktop\C# семинары\C# ДЗ к Семинару №8\C-sharp-Homework_8\Zadacha 54\bin\Debug\net6.0\Zadacha 54.deps.json
+C:\Users\user\Desktop\C# семинары\C# ДЗ к Семинару №8\C-sharp-Homework_8\Zadacha 54\bin\Debug\net6.0\Zadacha 54.runtimeconfig.json
+C:\Users\user\Desktop\C# семинары\C# ДЗ к Семинару №8\C-sharp-Homework_8\Zadacha 54\bin\Debug\net6.0\Zadacha 54.dll
+C:\Users\user\Desktop\C# семинары\C# ДЗ к Семинару №8\C-sharp-Homework_8\Zadacha 54\bin\Debug\net6.0\Zadacha 54.pdb
+C:\Users\user\Desktop\C# семинары\C# ДЗ к Семинару №8\C-sharp-Homework_8\Zadacha 54\obj\Debug\net6.0\Zadacha 54.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# семинары\C# ДЗ к Семинару №8\C-sharp-Homework_8\Zadacha 54\obj\Debug\net6.0\Zadacha 54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# семинары\C# ДЗ к Семинару №8\C-sharp-Homework_8\Zadacha 54\obj\Debug\net6.0\Zadacha 54.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# семинары\C# ДЗ к Семинару №8\C-sharp-Homework_8\Zadacha 54\obj\Debug\net6.0\Zadacha 54.AssemblyInfo.cs
+C:\Users\user\Desktop\C# семинары\C# ДЗ к Семинару №8\C-sharp-Homework_8\Zadacha 54\obj\Debug\net6.0\Zadacha 54.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# семинары\C# ДЗ к Семинару №8\C-sharp-Homework_8\Zadacha 54\obj\Debug\net6.0\Zadacha 54.dll
+C:\Users\user\Desktop\C# семинары\C# ДЗ к Семинару №8\C-sharp-Homework_8\Zadacha 54\obj\Debug\net6.0\refint\Zadacha 54.dll
+C:\Users\user\Desktop\C# семинары\C# ДЗ к Семинару №8\C-sharp-Homework_8\Zadacha 54\obj\Debug\net6.0\Zadacha 54.pdb
+C:\Users\user\Desktop\C# семинары\C# ДЗ к Семинару №8\C-sharp-Homework_8\Zadacha 54\obj\Debug\net6.0\Zadacha 54.genruntimeconfig.cache
+C:\Users\user\Desktop\C# семинары\C# ДЗ к Семинару №8\C-sharp-Homework_8\Zadacha 54\obj\Debug\net6.0\ref\Zadacha 54.dll

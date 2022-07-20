@@ -21,21 +21,22 @@ int[] arrayRow = new int [columns];
 int[] sumRow = new int[rows];
 /***************************************************************************************/
 Revizor(array);
-FillArray(array);
-PrintArray(array);
-FillArraySumRow(array);
-Console.WriteLine("--------------------------------------------------------------------");
-MinSumRow(sumRow);
-Console.WriteLine("--------------------------------------------------------------------");
-/***************************************************************************************/
 void Revizor(int[,] A)
 {
     if (A.GetLength(0) != A.GetLength(1))
     {
-        Console.WriteLine ("Массив прямоугольный");
+        FillArray(array);
+        PrintArray(array);
+        FillArraySumRow(array);
+        Console.WriteLine("--------------------------------------------------------------------");
+        MinSumRow(sumRow);
+        Console.WriteLine("--------------------------------------------------------------------");
     }
     else Console.WriteLine ("Введите прямоугольный массив, где количество строк не совпадает с количеством столбцов");
 }
+
+/***************************************************************************************/
+
 void FillArray(int[,] A)
 {
     for (int i = 0; i < A.GetLength(0); i++)
@@ -88,38 +89,3 @@ void MinSumRow(int[] A)
     Console.WriteLine($"Минимальная суммма строки массива равна {min}, номер строки: {indexMin}");
 }
 /***************************************************************************************/
-/*
-void LowerSumRow (int[,] A)
-{
-    
-    Console.WriteLine();
-    for (int i = 0; i < A.GetLength(0); i++)
-    {
-        int sum = 0;
-        for (int j = 0; j < A.GetLength(1); j++)
-        {
-           
-           sum = A[i,j]++;
-            
-        }  
-        Console.Write(sum + "\t");
-        //Console.WriteLine(sum);  
-       // Console.WriteLine("Минимальную сумму элементов имет строка ");  
-    }
-    Console.WriteLine("--------------------------------------------------------------------------------------");
-}
-*/
-
-
-/*
-for(int z = j + 1; z < A.GetLength(1); z++)
-            {
-                if(A[i,j] > A[i,z])
-                {
-                    int temp = A[i,j];
-                    A[i,j] = A[i,z];
-                    A[i,z] = temp;
-                } 
-            }  
-            Console.Write(A[i,j] + "\t");   
-*/

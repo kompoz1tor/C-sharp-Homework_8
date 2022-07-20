@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ideapad-1\\Desktop\\ДЗ Семинар №8\\Zadacha 54\\Zadacha 54.csproj": {}
+    "C:\\Users\\user\\Desktop\\C# семинары\\C# ДЗ к Семинару №8\\C-sharp-Homework_8\\Zadacha 54\\Zadacha 54.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ideapad-1\\Desktop\\ДЗ Семинар №8\\Zadacha 54\\Zadacha 54.csproj": {
+    "C:\\Users\\user\\Desktop\\C# семинары\\C# ДЗ к Семинару №8\\C-sharp-Homework_8\\Zadacha 54\\Zadacha 54.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ideapad-1\\Desktop\\ДЗ Семинар №8\\Zadacha 54\\Zadacha 54.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\C# семинары\\C# ДЗ к Семинару №8\\C-sharp-Homework_8\\Zadacha 54\\Zadacha 54.csproj",
         "projectName": "Zadacha 54",
-        "projectPath": "C:\\Users\\ideapad-1\\Desktop\\ДЗ Семинар №8\\Zadacha 54\\Zadacha 54.csproj",
-        "packagesPath": "C:\\Users\\ideapad-1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ideapad-1\\Desktop\\ДЗ Семинар №8\\Zadacha 54\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\C# семинары\\C# ДЗ к Семинару №8\\C-sharp-Homework_8\\Zadacha 54\\Zadacha 54.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\C# семинары\\C# ДЗ к Семинару №8\\C-sharp-Homework_8\\Zadacha 54\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ideapad-1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

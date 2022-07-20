@@ -20,11 +20,11 @@ Console.WriteLine("Введите количество столбцов масс
 int columns = Convert.ToInt32(Console.ReadLine());
 int[,] array = new int[rows,columns];
 int[] arrayRow = new int [rows];
-
+/***************************************************************************************/
 FillArray(array);
 PrintArray(array);
 PrintSortRows(array);
-
+/***************************************************************************************/
 void FillArray(int[,] A)
 {
     for (int i = 0; i < A.GetLength(0); i++)
@@ -35,6 +35,7 @@ void FillArray(int[,] A)
         }
     }
 }
+/***************************************************************************************/
 void PrintArray(int[,] A)
 {
      for (int i = 0; i < A.GetLength(0); i++)
@@ -46,7 +47,7 @@ void PrintArray(int[,] A)
         Console.WriteLine();
     }
 }
-
+/***************************************************************************************/
 void PrintSortRows(int[,] A)
 {
     Console.WriteLine(); 
@@ -73,12 +74,5 @@ void PrintSortRows(int[,] A)
 }
 Console.WriteLine();
             
-            for (int i = 0; i < array.GetLength(0); i++)
-            {
-                for (int j = 0; j < array.GetLength(1); j++)
-                {
-                    arrayRow[j] = array[j, i];
-                    Console.Write(arrayRow[j] + "\t");    
-                }    
-            }
+           
         
